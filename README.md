@@ -2,7 +2,7 @@
 
 ### 👩🏻‍💻 &nbsp; Sobre mim
 
-- Me chamo Victória, sou formada em técnico em Desenvolvimento de Sistemas na Etec Drª Ruth Cardoso e atualmente estou cursando Análise e Desenvolvimento de Sistemas na Fatec Praia Grande.
+- Me chamo Victória, sou formada em Técnico em Desenvolvimento de Sistemas na Etec Drª Ruth Cardoso e atualmente estou cursando Análise e Desenvolvimento de Sistemas na Fatec Praia Grande.
 - Sou apaixonada por desenvolvimento web.
 - Tenho conhecimento em banco de dados MySQL.
 - Em meu tempo livre, gosto desenhar como hobbie 🎨 
@@ -27,3 +27,7 @@
   <img align="center" alt="react" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" style="margin-top: 10px;"/>
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" style="margin-top: 10px;"/>
 </div><br/>
+
+## 🤝🏻 &nbsp; Contatos
+<!--<a href="https://linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>-->
+<a href="mailto:quinterio.victoria@hotmail.com"><img src="https://img.shields.io/badge/-quinterio.victoria@hotmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
