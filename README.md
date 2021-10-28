@@ -6,7 +6,7 @@
 - Sou apaixonada por desenvolvimento web.
 - Tenho conhecimento em banco de dados MySQL.
 - Em meu tempo livre, gosto desenhar como hobbie 🎨 
-<img style="width: 15%" align="right" src="https://i.pinimg.com/originals/67/97/f6/6797f68d4ee3b3ea5ad5a38058402ec6.gif"/>
+<img style="width: 15%" align="right" src="cat_waiting.gif"/>
 <br/>
 
 <p align = "left">
