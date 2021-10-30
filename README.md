@@ -12,7 +12,7 @@
 <p align = "left">
 <a href="https://github.com/VIQuinterio">
   <img height = "180em" src = "https://github-readme-stats-eight-theta.vercel.app/api?username=VIQuinterio&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true" />
-  <img height = "180em" src = "https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VIQuinterio&layout=compact&langs_count=8&theme=cobalt" />
+  <!--<img height = "180em" src = "https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VIQuinterio&layout=compact&langs_count=8&theme=cobalt" />-->
 </a>
 </p>
 
