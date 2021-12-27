@@ -26,6 +26,7 @@
   <img align="center" alt="ts" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" style="margin-top: 10px;"/>
   <img align="center" alt="react" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" style="margin-top: 10px;"/>
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" style="margin-top: 10px;"/>
+  <img align="center" alt="nodejs" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" style="margin-top: 10px;"/>
 </div><br/>
 
 ## 🤝🏻 &nbsp; Contatos
