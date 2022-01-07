@@ -12,7 +12,7 @@
 <p align = "left">
 <a href="https://github.com/VIQuinterio">
   <img height = "180em" src = "https://github-readme-stats-eight-theta.vercel.app/api?username=VIQuinterio&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true" />
-  <!--<img height = "180em" src = "https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VIQuinterio&layout=compact&langs_count=8&theme=cobalt" />-->
+  <img height = "180em" src = "https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VIQuinterio&layout=compact&langs_count=8&theme=cobalt" />
 </a>
 </p>
 
@@ -30,5 +30,5 @@
 </div><br/>
 
 ## 🤝🏻 &nbsp; Contatos
-<<a href="linkedin.com/in/victória-cabral-quintério-50b84322a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="linkedin.com/in/victória-cabral-quintério-50b84322a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:quinterio.victoria@hotmail.com"><img src="https://img.shields.io/badge/-quinterio.victoria@hotmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
