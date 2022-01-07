@@ -30,5 +30,5 @@
 </div><br/>
 
 ## 🤝🏻 &nbsp; Contatos
-<!--<a href="https://linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>-->
+<<a href="linkedin.com/in/victória-cabral-quintério-50b84322a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:quinterio.victoria@hotmail.com"><img src="https://img.shields.io/badge/-quinterio.victoria@hotmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
