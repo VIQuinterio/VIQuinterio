@@ -1,10 +1,9 @@
-### 👋 Olá! Sou apenas uma garota se aventurando no mundo da programação 
+### 👋 Olá! Sou apenas uma garota se aventurando no mundo dos dados 
 
 ### 👩🏻‍💻 &nbsp; Sobre mim
 
-- Me chamo Victória, sou formada em Técnico em Desenvolvimento de Sistemas na Etec Drª Ruth Cardoso e atualmente estou cursando Análise e Desenvolvimento de Sistemas na Fatec Praia Grande.
-- Sou apaixonada por desenvolvimento web.
-- Tenho conhecimento em banco de dados MySQL.
+- Me chamo Victória, sou formada em Análise e Desenvolvimento de Sistemas na Fatec Praia Grande e atualmente estou me aprofundando mem Ciência de Dados.
+- Sou apaixonada por desenvolvimento web e análise de dados.
 - Em meu tempo livre, gosto desenhar, jogar video game e tocar ukulele
 <img style="width: 40%" align="right" src="cat_waiting.gif"/>
 <br/>
