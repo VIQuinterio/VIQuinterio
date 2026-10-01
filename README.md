@@ -1,6 +1,4 @@
 <div align="center">
-  <img src="./assets/banner.svg" alt="Banner de VIQuinterio: full-stack, ciência de dados e pixel heart" width="100%" />
-
   <h2>
     olá, eu sou a Victória
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="mão acenando" width="32" height="32" />
@@ -139,7 +137,3 @@ Se você curte dados, dashboard caprichado ou só quer falar de jogo e ukulele, 
   <a href="https://viquinterio.github.io/Portifolio/"><img src="https://img.shields.io/badge/Portfólio-github.io-A78BFA?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio" /></a>
   <a href="mailto:quinterio.victoria@hotmail.com"><img src="https://img.shields.io/badge/Email-quinterio.victoria@hotmail.com-F9A8D4?style=for-the-badge&logo=maildotru&logoColor=140c22" alt="E-mail" /></a>
 </p>
-
-<div align="center">
-  <img src="./assets/footer.svg" alt="Rodapé: que seus deploys sejam verdes e seus datasets, limpos" width="100%" />
-</div>
